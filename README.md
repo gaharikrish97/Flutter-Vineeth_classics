@@ -1,6 +1,6 @@
 # Vineeth_Classics Application
 
-A new Flutter project created as a tribute to one of the best malayalam movie director Vineeth Sreenivasan. The application developer is a android application which has details about the movies he has made along with additional features to watch trailers and songs of each movie he has directed.
+A new Flutter project created as a tribute to one of the best malayalam movie director Vineeth Sreenivasan. The application developed is an android application which has details about the movies he has made along with additional features to watch trailers and songs of each movie he has directed.
 
 ## Getting Started
 A few resources to get you started if this is your first Flutter project:
