@@ -1,4 +1,4 @@
-# mealapp
+# Vineeth_Classic Application
 
 A new Flutter project.
 
